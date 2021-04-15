@@ -1,0 +1,29 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "fetch": "^1.1.0",
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POOPYFARTS-CODE/regex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/POOPYFARTS-CODE/regex/issues"
+  },
+  "homepage": "https://github.com/POOPYFARTS-CODE/regex#readme",
+  "keywords": [],
+  "description": ""
+}
